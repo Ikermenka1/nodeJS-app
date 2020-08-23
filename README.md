@@ -1,3 +1,4 @@
+#some test for jenkins
 # NodeJS application
 #simple app build
 A simple application to test REST and SocketIO connectivity and experiment with node.js deployement models. This is an accompanying app 
